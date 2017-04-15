@@ -1,0 +1,10 @@
+{
+  "diamond": {
+    "main": "main.sass",
+    "dependencies": {
+      "bootstrap": "^4.0.0-alpha.6"
+    }
+  },
+  "name": "test",
+  "version": "0.1.0"
+}
